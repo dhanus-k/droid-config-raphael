@@ -2,9 +2,9 @@
 # Generated in hadk by executing: rpm/dhd/helpers/add_new_device.sh
 
 Description: Pattern with packages for davinci configurations
-Name: jolla-configuration-davinci
+Name: jolla-configuration-raphael
 Requires:
-- pattern:jolla-hw-adaptation-davinci
+- pattern:jolla-hw-adaptation-raphael
 - patterns-sailfish-applications
 - patterns-sailfish-ui
 # For devices with cellular modem. Those without one, please comment out:
@@ -47,4 +47,4 @@ Requires:
 - jolla-calendar
 - sailfish-weather
 
-Summary: Jolla Configuration davinci
+Summary: Jolla Configuration raphael
