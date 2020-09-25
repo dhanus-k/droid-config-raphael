@@ -2,19 +2,19 @@
 # Generated in hadk by executing: rpm/dhd/helpers/add_new_device.sh
 
 Description: Pattern with packages for davinci HW Adaptation
-Name: jolla-hw-adaptation-davinci
+Name: jolla-hw-adaptation-raphael
 Requires:
-- droid-hal-davinci
-- droid-hal-davinci-img-boot
-- droid-hal-davinci-kernel-modules
-- droid-config-davinci-sailfish
-- droid-config-davinci-pulseaudio-settings
-- droid-config-davinci-policy-settings
-- droid-config-davinci-preinit-plugin
-- droid-config-davinci-flashing
-- droid-config-davinci-bluez5
-- droid-hal-version-davinci
-- droid-hal-davinci-detritus
+- droid-hal-raphael
+- droid-hal-raphael-img-boot
+- droid-hal-raphael-kernel-modules
+- droid-config-raphael-sailfish
+- droid-config-raphael-pulseaudio-settings
+- droid-config-raphael-policy-settings
+- droid-config-raphael-preinit-plugin
+- droid-config-raphael-flashing
+- droid-config-raphael-bluez5
+- droid-hal-version-raphael
+- droid-hal-raphael-detritus
 
 
 # Hybris packages
@@ -101,4 +101,4 @@ Requires:
 # For cellurdata
 - dummy_netd
 
-Summary: Jolla HW Adaptation davinci
+Summary: Jolla HW Adaptation raphael
