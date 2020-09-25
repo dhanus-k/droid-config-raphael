@@ -1,7 +1,7 @@
 # Feel free to disable non-critical HA parts during devel by commenting lines out
 # Generated in hadk by executing: rpm/dhd/helpers/add_new_device.sh
 
-Description: Pattern with packages for davinci HW Adaptation
+Description: Pattern with packages for raphael HW Adaptation
 Name: jolla-hw-adaptation-raphael
 Requires:
 - droid-hal-raphael
